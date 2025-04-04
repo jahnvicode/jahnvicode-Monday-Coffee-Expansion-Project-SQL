@@ -34,7 +34,7 @@ The goal of this project is to analyze the sales data of Monday Coffee, a compan
    Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly).
 
 10. **Market Potential Analysis**  
-    Identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, estimated  coffee consumer
+    Identify top 3 cities based on highest sales, return the city name, total sales, total rent, total customers, and estimated  coffee consumer
     
 
 ## Recommendations
